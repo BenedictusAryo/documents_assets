@@ -11,6 +11,7 @@ sns.heatmap(all_go.corr(), annot=True, cmap='RdBu')
 plt.plot()
 ```
 *Output :*
-<img src ="Assets/Figure_15.png" width="360" height="360" align="center"/>
+
+<img src ="https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Basic%20Course/3_Basic%20Visualization/Assets/Figure_15.png" width="460" height="360" align="center"/>
 
 Didapatkan nilai korelasi dengan angka dan warna. 

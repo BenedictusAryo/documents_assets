@@ -20,7 +20,8 @@ sns.boxplot(x='Sex', y='Height', data = df)
 plt.show()
 ```
 *Output :*
-<img src ="Assets/Figure_12.png" width="360" height="360" align="center"/>
+
+<img src ="https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Basic%20Course/3_Basic%20Visualization/Assets/Figure_12.png" width="460" height="360" align="center"/>
 
 Dari boxplot diatas diketahui bahwa kecendrungan data berdasarkan tinggi. Pada boxplot laki-laki persebaran tidak berbeda jauh dari pada perempuan. Tetapi, laki-laki persebaran data sedikit lebih tinggi. 
 ```
@@ -29,6 +30,7 @@ plt.title('Distribution of Weight based on Sex')
 plt.show()
 ```
 *Output :*
-<img src ="Assets/Figure_13.png" width="360" height="360" align="center"/>
+
+<img src ="https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Basic%20Course/3_Basic%20Visualization/Assets/Figure_13.png" width="460" height="360" align="center"/>
 
 Didapatkan kecendrungan persebaran data laki-laki sedikit lebih tiggi dari pada perempuan. Outlier pada perempuan ada outlier dibawah nilai minimal sedangkan laki-laki tidak ada. 
