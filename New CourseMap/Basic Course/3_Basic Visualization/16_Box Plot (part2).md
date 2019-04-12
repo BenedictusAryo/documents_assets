@@ -11,7 +11,8 @@ sns.boxplot(x='Sex', y='Age', data = df)
 plt.show()
 ```
 *Output :*
-<img src ="Assets/Figure_11.png" width="360" height="360" align="center"/>
+
+<img src ="https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Basic%20Course/3_Basic%20Visualization/Assets/Figure_11.png" width="460" height="360" align="center"/>
 
 Dari boxplot diatas didapatkan banyak data yang outlier baik dari perempuan maupun laki-laki. Persebaran umur perempuan dan laki-laki hampir sama, hanya saja perempuan terdapat beberapa atlet yang lebih tua dari pada perempuan. 
 ```

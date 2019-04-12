@@ -62,6 +62,7 @@ gre = all_new[all_new['NOC']=='GRE']
 sns.lineplot(x='Year', y='Total', data=gre)
 ```
 *Output :*
-<img src ="Assets/Figure_6.png" width="360" height="360" align="center"/>
+
+<img src ="https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Basic%20Course/3_Basic%20Visualization/Assets/Figure_6.png" width="460" height="360" align="center"/>
 
 Didapatkan bahwa pada tahun 1906 mendapatkan mendali paling tinggi dan turun secara signifikan pada tahun selanjutnya, dst.

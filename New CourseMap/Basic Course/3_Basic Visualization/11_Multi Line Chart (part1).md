@@ -29,6 +29,7 @@ plt.legend()
 plt.show()
 ```
 *Output :*
-<img src ="Assets/Figure_7.png" width="360" height="360" align="center"/>
+
+<img src ="https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Basic%20Course/3_Basic%20Visualization/Assets/Figure_7.png" width="560" height="360" align="center"/>
 
 Terlihat lebih mudah dan lebih terlihat perbedaan antara total perolehan mendali untuk Gold, Silver dan Bronze. 
