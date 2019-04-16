@@ -14,7 +14,8 @@ Pada pembahasan ini kita menggunakan kasus data nilai matematika.
 data = pd.read_excel('data/data_nilai_matematika.xlsx')
 print(data)
 ```
-*Output :* <br>
+*Output :* 
+
 | Nama   | Kelamin   | Nilai |
 |--------|-----------|-------|
 | Andi   | Laki-laki | 80    |
@@ -37,7 +38,8 @@ Dari data diatas kita ketahui bahwa data terdiri dari Nama, Kelamin dan Nilai. M
 ```
 data.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Nama   | Kelamin   | Nilai |
 |--------|-----------|-------|
 | Andi   | Laki-laki | 80    |
@@ -50,7 +52,8 @@ Sekarang kita lihat 2 data teratas
 ```
 data.head(2)
 ```
-*Output :* <br>
+*Output :*
+
 | Nama   | Kelamin   | Nilai |
 |--------|-----------|-------|
 | Andi   | Laki-laki | 80    |
@@ -60,7 +63,8 @@ Memilihi perbedaan ketika kita ingin melihat data ketiga sampai kedelapan
 ```
 data[3:9]
 ```
-*Output :* <br>
+*Output :*
+
 | Nama   | Kelamin   | Nilai |
 |--------|-----------|-------|
 | Dewi   | Perempuan | 76    |

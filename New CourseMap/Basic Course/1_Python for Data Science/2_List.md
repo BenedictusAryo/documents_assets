@@ -9,13 +9,20 @@ List merupakan salah satu kontainer yang sering digunakan karena kemampuannya da
 Untuk memanggil komponen data dari list, kita dapat menggunakan index.
 
 Inisiasi List menggunakan kurung siku **[ ]** . 
-> contoh_list = [1, 2, 3, 4]
-> 
+
+```
+ contoh_list = [1, 2, 3, 4]
+```
+
 Untuk memanggil elemen dari list, gunakan nama_list[urutan_list]:
-> elemen = contoh_list[0] <br>
-> print(elemen)
-> 
+
+```
+elemen = contoh_list[0]
+print(elemen)
+```
+
 *Output :*
-> 
-> 1
+``` 
+ 1
+```
 ___

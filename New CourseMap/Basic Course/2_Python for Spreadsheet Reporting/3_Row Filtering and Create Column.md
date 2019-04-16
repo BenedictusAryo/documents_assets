@@ -11,7 +11,8 @@ Kali ini kita akan melihat data hanya variabel ```Nama```
 ```
 data[['Nama']]
 ```
-*Output :* <br>
+*Output :*
+
 |    | Nama   |
 |----|--------|
 | 0  | April  |
@@ -34,7 +35,8 @@ Kita akan melihat data untuk ```Gita```
 ```
 data[data['Nama']=="Gita"]
 ```
-*Output :* <br>
+*Output :*
+
 |    | Nama | Kelamin   | Nilai |
 |----|------|-----------|-------|
 | 12 | Gita | Perempuan | 63    |
@@ -45,7 +47,8 @@ Selain itu, kita bisa mendapatkan nilai misalnya nilainya < 80.
 ```
 data[data['Nilai']<80].reset_indes(drop=True)
 ```
-*Output :* <br>
+*Output :*
+
 |    | Nama   | Kelamin   | Nilai |
 |----|--------|-----------|-------|
 | 0  | Dewi   | Perempuan | 76    |

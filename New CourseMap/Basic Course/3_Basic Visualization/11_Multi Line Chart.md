@@ -14,6 +14,7 @@ gre = gre.sort_values(by=['Year'])
 gre.head()
 ```
 *Output :*
+
 | Year | NOC | Total | None | G  | S  | B  |
 |------|-----|-------|------|----|----|----|
 | 1896 | GRE | 48    | 0    | 10 | 18 | 20 |

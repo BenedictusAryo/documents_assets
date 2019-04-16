@@ -26,7 +26,8 @@ Nah mari kita lihat data yang akan digunakan
 ```
 data_match.head()
 ```
-*Output :* <br>
+*Output :* 
+
 | Date       | Team         | Opponent     | Goal Scored | Ball Possession % | Attempts | On-Target | Off-Target | Blocked | Corners | Offsides | Free Kicks | Saves | Pass Accuracy % | Passes | Distance Covered (Kms) | Fouls Committed | Yellow Card | Yellow & Red | Red | Man of the Match | 1st Goal | Round       | PSO | Goals in PSO | Own goals | Own goal Time |
 |------------|--------------|--------------|-------------|-------------------|----------|-----------|------------|---------|---------|----------|------------|-------|-----------------|--------|------------------------|-----------------|-------------|--------------|-----|------------------|----------|-------------|-----|--------------|-----------|---------------|
 | 14-06-2018 | Russia       | Saudi Arabia | 5           | 40                | 13       | 7         | 3          | 3       | 6       | 3        | 11         | 0     | 78              | 306    | 118                    | 22              | 0           | 0            | 0   | Yes              | 12.0     | Group Stage | No  | 0            |           |               |
@@ -40,6 +41,7 @@ Pada tabel diatas merupakan tabel untuk data pada sheet ```match statistics``` y
 data_cou.head()
 ```
 *Output :*
+
 | Country   | Continent     |
 |-----------|---------------|
 | Argentina | South America |

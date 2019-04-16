@@ -13,7 +13,8 @@ import pandas as pd
 data_workbook = pd.ExcelFile('data/data_nilai_matematika1.xlsx')
 data_workbook
 ```
-*Output :* <br>
+*Output :*
+
 ```
 <pandas.io.excel.ExcelFile object at 0x000000000826D198>
 ```
@@ -25,7 +26,8 @@ Kita dapat menampilkan datanya dengan menggunakan ```Atribut``` dengan perintah
 data_sheet_names = data_workbook.sheet_names
 print(data_sheet_names)
 ```
-*Output :* <br>
+*Output :*
+
 ['Kelamin', 'Nilai']
 
 Didapatkanlah nama sheet yang kita punya seperti output diatas. 

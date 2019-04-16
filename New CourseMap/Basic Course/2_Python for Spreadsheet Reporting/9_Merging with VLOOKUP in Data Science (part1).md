@@ -12,7 +12,8 @@ Mengubah data dengan semua huruf kecil.
 data_kelamin['Nama'] = data_kelamin['Nama'].str.lower()
 data_kelamin.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Nama    | Kelamin   | NIM      |
 |---------|-----------|----------|
 | andi  s | Laki-laki | 14611155 |
@@ -26,7 +27,8 @@ Mengubah data dengan semua huruf besar
 data_kelamin['Nama'] = data_kelamin['Nama'].str.upper()
 data_kelamin.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Nama    | Kelamin   | NIM      |
 |---------|-----------|----------|
 | ANDI  S | Laki-laki | 14611155 |
@@ -40,7 +42,8 @@ Mengubah data dengan semua huruf besar diawal kata
 data_kelamin['Nama'] = data_kelamin['Nama'].str.title()
 data_kelamin.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Nama    | Kelamin   | NIM      |
 |---------|-----------|----------|
 | Andi  S | Laki-laki | 14611155 |

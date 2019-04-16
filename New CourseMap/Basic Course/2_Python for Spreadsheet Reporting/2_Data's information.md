@@ -9,7 +9,8 @@ Pada video kali ini kita akan menggali informsi dari data yang kita inputkan seb
 ```
 data.info() 
 ```
-*Output :* <br>
+*Output :*
+
 ```
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 15 entries, 0 to 14
@@ -27,7 +28,8 @@ Kemudian, kita dapat melihat data secara statistik dengan perintah
 ```
 data.describe()
 ```
-*Output :* <br>
+*Output :*
+
 |       | Nilai            |
 |-------|------------------|
 | count | 15.0             |
@@ -47,7 +49,8 @@ data = data.sort_values('Nama')
 data = data.reset_index(drop=True)
 data.head()
 ```
-*Output :* <br>
+*Output :*
+
 |    | Nama   | Kelamin   | Nilai |
 |----|--------|-----------|-------|
 | 0  | Andi   | Laki-laki | 80    |
@@ -65,7 +68,8 @@ data = data.sort_values("Nilai", ascending=False)
 data = data.reset_index(drop=True)
 data.head()
 ```
-*Output :* <br>
+*Output :*
+
 |    | Nama   | Kelamin   | Nilai |
 |----|--------|-----------|-------|
 | 0  | April  | Perempuan | 90    |

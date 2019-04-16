@@ -11,7 +11,8 @@ data_workbook = pd.ExcelFile('data/data_nilai_matematika2.xlsx')
 data_kelamin = data_workbook.parse('Kelamin')
 data_kelamin.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Nama   | Kelamin   |
 |--------|-----------|
 | Andi   | Laki-laki |
@@ -23,7 +24,8 @@ data_kelamin.head()
 data_nilai = data_workbook.parse('Nilai')
 data_nilai.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Nama Siswa | Nilai |
 |------------|-------|
 | Andi       | 80    |
@@ -40,7 +42,8 @@ data_gabung = data_kelamin.merge(data_nilai,
                    how='left')
 data_gabung.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Nama   | Kelamin   | Nama Siswa | Nilai |
 |--------|-----------|------------|-------|
 | Andi   | Laki-laki | Andi       | 80    |
@@ -53,7 +56,8 @@ Pada tabel diatas telah digabungkan antara Sheet ```Kelamin``` dan ```Nilai```. 
 ```
 data_gabung.drop('Nama Siswa', axis=1)
 ```
-*Output :* <br>
+*Output :*
+
 | Nama   | Kelamin   | Nilai |
 |--------|-----------|-------|
 | Andi   | Laki-laki | 80    |

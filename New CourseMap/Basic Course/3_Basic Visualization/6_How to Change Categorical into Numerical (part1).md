@@ -14,6 +14,7 @@ all_go = pd.DataFrame(df.groupby(['NOC','Medal'])['Medal'].size())
 all_go.head()
 ```
 *Output :*
+
 | NOC | Medal  | Medal |
 |-----|--------|-------|
 | AFG | None   | 3     |
@@ -28,6 +29,7 @@ all_go.columns =['Total']
 all_go.head()
 ```
 *Output :*
+
 | NOC | Medal  | Total |
 |-----|--------|-------|
 | AFG | None   | 3     |
@@ -42,6 +44,7 @@ all_go = all_go.reset_index()
 all_go.head()
 ```
 *Output :*
+
 | NOC | Medal  | Total |
 |-----|--------|-------|
 | AFG | None   | 3     |

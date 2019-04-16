@@ -13,7 +13,8 @@ import pandas as pd
 motor = pd.read_excel('data/data_penjualan_motor2018.xlsx')
 motor.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Bulan     | Jenis    | Jumlah |
 |-----------|----------|--------|
 | Januari   | Honda    | 345957 |
@@ -28,7 +29,8 @@ Kita jumlahkan data penjualan tahun 2018 dengan perintah
 ```
 motor.sum(numeric_only=True)
 ```
-*Output :* <br>
+*Output :*
+
 ```
 Jumlah    6382780
 dtype: int64
@@ -37,7 +39,8 @@ Jumlah yang didapatkan yaitu sebanyak 6382780. Ketika kita hendak mengetahui pen
 ```
 motor.groupby('Bulan', as_index=False).sum()
 ```
-*Output :* <br>
+*Output :*
+
 | Bulan     | Jumlah |
 |-----------|--------|
 | Agustus   | 567961 |
@@ -58,7 +61,8 @@ Selanjutnya, untuk memudahkan pemahaman kita akan mencari menurut bulan dan jeni
 ```
 motor.groupby(['Bulan','Jenis'], as_index=False).sum()
 ```
-*Output :* <br>
+*Output :*
+
 | Bulan     | Jenis    | Jumlah |
 |-----------|----------|--------|
 | Agustus   | Honda    | 443694 |
@@ -71,7 +75,8 @@ Nah, kali ini kita mencari data bulan Januari dan jenis Yamaha
 ```
 motor[(motor['Jenis'] == 'Yamaha') & (motor['Bulan']=='Januari')]
 ```
-*Output :* <br>
+*Output :*
+
 | Bulan     | Jenis    | Jumlah |
 |-----------|----------|--------|
 | Januari   | Yamaha   | 122989 |

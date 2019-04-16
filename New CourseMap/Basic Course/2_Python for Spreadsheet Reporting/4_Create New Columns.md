@@ -12,7 +12,8 @@ Kali ini kita akan menambahkan kolom baru dengan nama ```Kolom_akhir``` dengan f
 data['Nilai_akhir'] = data['Nilai']+10
 data.head()
 ```
-*Output :* <br>
+*Output :*
+
 |    | Nama   | Kelamin   | Nilai | Nilai_akhir |
 |----|--------|-----------|-------|-------------|
 | 0  | April  | Perempuan | 90    | 100         |
@@ -29,7 +30,8 @@ baru1 = pd.DataFrame(data1)
 data = data.append(baru1).reset_index(drop=True)
 data.tail()
 ```
-*Output :* <br>
+*Output :*
+
 |    | Kelamin   | Nama   | Nilai | Nilai_akhir |
 |----|-----------|--------|-------|-------------|
 | 10 | Perempuan | Maya   | 69    | 79          |

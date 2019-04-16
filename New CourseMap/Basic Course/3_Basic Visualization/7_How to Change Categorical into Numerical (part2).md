@@ -15,6 +15,7 @@ all_go['B'] = np .where(all_go['Medal'] == 'Bronze', all_go['Total'],0)
 all_go.head()
 ```
 *Output :*
+
 | NOC | Medal  | Total | None | G | S | B |
 |-----|--------|-------|------|---|---|---|
 | AFG | None   | 3     | 3    | 0 | 0 | 0 |
@@ -30,6 +31,7 @@ all_go = all_go.groupby('NOC').sum().reset_index().sort_values(by=['G','S','B'],
 all_go.head()
 ```
 *Output :*
+
 | NOC | Total | None | G   | S  | B  |
 |-----|-------|------|-----|----|----|
 | USA | 719   | 455  | 139 | 54 | 71 |
@@ -44,6 +46,7 @@ all_go ['Total_Medals'] = all_go['Total'] - all_go['None']
 all_go.head()
 ```
 *Output :*
+
 | NOC | Total | None | G   | S  | B  | Total_Medals |
 |-----|-------|------|-----|----|----|--------------|
 | USA | 719   | 455  | 139 | 54 | 71 | 264          |

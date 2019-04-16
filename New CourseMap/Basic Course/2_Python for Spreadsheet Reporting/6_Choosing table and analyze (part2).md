@@ -9,7 +9,8 @@ Melanjutkan video sebelumnya, kita akan melihat infomarmasi data dengan perintah
 ```
 motor.info()
 ```
-*Output :* <br>
+*Output :*
+
 ```
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 48 entries, 0 to 47
@@ -25,7 +26,8 @@ data kita memiliki 48 baris dan 3 kolom yaitu Bulan Jenis dan Jumlah. Kemudian, 
 ```
 motor.groupby(['Jenis'], as_index=False).mean()
 ```
-*Output :* <br>
+*Output :*
+
 | Jenis    | Jumlah             |
 |----------|--------------------|
 | Honda    | 396600.1666666667  |
@@ -39,7 +41,8 @@ totals = motor.sort_values('Jumlah',
                            ascending=False).reset_index(drop=True)
 totals.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Bulan     | Jenis    | Jumlah |
 |-----------|----------|--------|
 | April     | Honda    | 458499 |
@@ -55,7 +58,8 @@ Nah, mari kita filtering penjualan untuk jenis ```Yamaha```.
 motor1 = motor[motor['Jenis'] == 'Yamaha'].reset_index(drop=True)
 motor1
 ```
-*Output :* <br>
+*Output :*
+
 | Bulan     | Jenis  | Jumlah |
 |-----------|--------|--------|
 | Januari   | Yamaha | 122989 |
@@ -78,7 +82,8 @@ def get_stats(group):
 groupby = motor['Jumlah'].groupby(motor['Jenis']).apply(get_stats).unstack()
 groupby
 ```
-*Output :* <br>
+*Output :*
+
 | Jenis    | max      | mean               | min      |
 |----------|----------|--------------------|----------|
 | Honda    | 458499.0 | 396600.1666666667  | 271206.0 |

@@ -15,6 +15,7 @@ Kemudian kita lanjutkan dengan menggabungkan jumlah mendali  sesuai dengan Year,
 all_new = pd.DataFrame(df1.groupby(['Year','NOC','Medal'])['Medal'].size())
 ```
 *Output :*
+
 | Year | NOC | Medal  | Medal |
 |------|-----|--------|-------|
 | 1896 | AUS | Bronze | 3     |
@@ -30,6 +31,7 @@ all_new.columns = ['Total']
 all_new = all_new.reset_index()
 ```
 *Output :*
+
 | Year | NOC | Medal  | Total |
 |------|-----|--------|-------|
 | 1896 | AUS | Bronze | 1     |
@@ -49,6 +51,7 @@ all_new['B'] = np.where(all_new['Medal'] == 'Bronze', all_new['Total'],0)
 all_new = all_new.groupby(['Year','NOC']).sum().reset_index().sort_values(by=['G','S','B'], ascending = False)
 ```
 *Output :*
+
 | Year | NOC | Total | None | G   | S   | B   |
 |------|-----|-------|------|-----|-----|-----|
 | 1980 | URS | 496   | 0    | 205 | 158 | 133 |
@@ -63,6 +66,7 @@ gre = all_new[all_new['NOC']=='GRE']
 sns.lineplot(x='Year', y='Total', data=gre)
 ```
 *Output :*
+
 
 <img src ="https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Basic%20Course/3_Basic%20Visualization/Assets/Figure_6.png" width="460" height="360" align="center"/>
 

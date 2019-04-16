@@ -12,7 +12,8 @@ Kita akan tampilkan data sheet ```Kelamin``` dan ```Nilai```
 data_kelamin = data_workbook.parse('Kelamin')
 data_kelamin.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Nama    | Kelamin   | NIM      |
 |---------|-----------|----------|
 | ANDI  S | Laki-laki | 14611155 |
@@ -24,7 +25,8 @@ data_kelamin.head()
 data_nilai = data_workbook.parse('Nilai')
 data_nilai.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Nama   | Nilai |
 |--------|-------|
 | Andi S | 80    |

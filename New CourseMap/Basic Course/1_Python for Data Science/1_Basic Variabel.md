@@ -13,11 +13,14 @@ Dalam membuat sebuah variable pada python, ada beberapa syarat yang harus dipenu
 * Tidak boleh menggunakan spasi
   
 Contoh :
-> var1 = 25         *(Benar)* 
 
-> var 1 = 25     *(Salah)*
+```
+> var1 = 25                      # Benar 
 
-> Kota2 = 'Jakarta' *(Benar)* 
+> var 1 = 25                     # Salah
 
-> 2Kota = 'Jakarta' *(Salah)*
+> Kota2 = 'Jakarta'              # Benar 
+
+> 2Kota = 'Jakarta'              # Salah
+```
 ___

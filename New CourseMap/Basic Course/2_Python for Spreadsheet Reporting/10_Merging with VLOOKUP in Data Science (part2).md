@@ -10,7 +10,8 @@ Pertama pada video ini kita akan menangani spasi. Nah, pada data kita pada data 
 data_kelamin['Nama'] = data_kelamin['Nama'].str.strip()
 data_kelamin.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Nama    | Kelamin   | NIM      |
 |---------|-----------|----------|
 | Andi  S | Laki-laki | 14611155 |
@@ -23,7 +24,8 @@ Memilih dan menghapus kolom. Nak kali ini kita memilih data pada sheet Kelamin u
 ```
 data_kelamin[['Nama','Kelamin']]
 ```
-*Output :* <br>
+*Output :*
+
 | Nama    | Kelamin   |
 |---------|-----------|
 | Andi  S | Laki-laki |
@@ -36,7 +38,8 @@ Jika tidak ingin menghapus kolom untuk data yang kita gunakan selanjutnya dengan
 ```
 data_kelamin.drop('Kelamin', axis=1)
 ```
-*Output :* <br>
+*Output :*
+
 | Nama    | NIM      |
 |---------|----------|
 | Andi  S | 14611155 |
@@ -59,7 +62,8 @@ Setelah analisis diatas kita akan menggabungkan 2 sheet yang kita punya dengan m
 ```
 data_kelamin.merge(data_nilai, on='Nama', how='left')
 ````
-*Output :* <br>
+*Output :*
+
 | Nama    | Kelamin   | NIM      | Nilai |
 |---------|-----------|----------|-------|
 | Andi  S | Laki-laki | 14611155 |       |
