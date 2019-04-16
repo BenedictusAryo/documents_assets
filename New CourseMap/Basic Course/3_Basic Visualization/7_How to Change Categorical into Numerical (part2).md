@@ -3,6 +3,9 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Dataset untuk Latihan pada Bab ini bisa di download di : 
+[athlete_events.csv](https://drive.google.com/file/d/1M5KLfA9DpVWiKqVQ9bwjFJWcl0yl-9TX/view?usp=sharing)_
+
 Melanjutkan video sebelumnya, total mendali belum tersusun secara rapi. Akan dilanjutkan dengan penyusunan data Negara berdasarkan total atlet, total Gold, total Silver dan total Bronze. 
 ```
 all_go['None'] = np .where(all_go['Medal'] == 'None', all_go['Total'],0)

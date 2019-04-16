@@ -3,6 +3,9 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Dataset untuk Latihan pada Bab ini bisa di download di : 
+[athlete_events.csv](https://drive.google.com/file/d/1M5KLfA9DpVWiKqVQ9bwjFJWcl0yl-9TX/view?usp=sharing)_
+
 Pada pembahasan kali ini akan mempelajari tentang ketika data lengkap sebelumnya dapat dibaca dengan mudah. Misalnya, dari data lengkap tersebut agar dapat mengetahui jumlah mendapatkan mendali dan jumlah atlet yang dikirimkan. 
 
 Perintah pertama yang digunakan menggunakan ```groupby```. ```groupby``` akan menggabungkan berdasarkan kolom-kolomnya. Dalam pembelajaran kali ini akan menggabungkan NOC (Nama Negara). Maka, variabel disetiap ```NOC``` yang sama akan disatukan menjadi satu sesuai dengan Mendali yang didapatkan. Maka variabel yang akan kita groupby selain ```NOC``` juga ```Medal```.

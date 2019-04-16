@@ -3,6 +3,9 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Dataset untuk Latihan pada Bab ini bisa di download di : 
+[athlete_events.csv](https://drive.google.com/file/d/1M5KLfA9DpVWiKqVQ9bwjFJWcl0yl-9TX/view?usp=sharing)_
+
 Stacked Bar Chart merupakan Barchart dari penggabungan kategori-kategori tertentu dibuat mejadi satu visualisasi. 
 
 Pada pembelajaran kali ini akan ditampilkan visualisasi Stacked Bar Chart top 10 negara dengan mendali terbaik berdasarkan mendali Gold, Silver dan Bronze. 

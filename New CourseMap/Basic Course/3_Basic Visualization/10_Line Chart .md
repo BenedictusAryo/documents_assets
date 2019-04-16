@@ -3,7 +3,8 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
-Line Chart merupakan suatu visualisasi data dengan garis. 
+_Dataset untuk Latihan pada Bab ini bisa di download di : 
+[athlete_events.csv](https://drive.google.com/file/d/1M5KLfA9DpVWiKqVQ9bwjFJWcl0yl-9TX/view?usp=sharing)_
 
 Pada pembelajaran ini kita ingin melihat total perolehan mendali dari tahun ke tahun untuk negara Yunani (pelopor olimpiade). Kita perlukan pemanggilan data kembali karena biasanya cukup bagus ketika ingin melihat perkembangan dari tahun ketahun.
 ```

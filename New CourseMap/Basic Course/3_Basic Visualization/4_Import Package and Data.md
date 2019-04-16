@@ -3,6 +3,10 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+
+_Dataset untuk Latihan pada Bab ini bisa di download di : 
+[athlete_events.csv](https://drive.google.com/file/d/1M5KLfA9DpVWiKqVQ9bwjFJWcl0yl-9TX/view?usp=sharing)_
+
 Sebelum kita meng-import data lebih baik kita import package yang digunakan untuk Data Science yaitu pandas dan numpy. 
 
 Data yang digunakan untuk Data Visulisasi kali ini yaitu menggunakan Olympic Games 1896 sampai 2016. 

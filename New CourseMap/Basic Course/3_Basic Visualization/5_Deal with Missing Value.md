@@ -3,6 +3,9 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Dataset untuk Latihan pada Bab ini bisa di download di : 
+[athlete_events.csv](https://drive.google.com/file/d/1M5KLfA9DpVWiKqVQ9bwjFJWcl0yl-9TX/view?usp=sharing)_
+
 Ketika data yang diinputkan kosong maka akan ditampilkan oleh python dengan ```NaN``` seperti pada variabel 'Medal'. Pada penjelasan kali ini ```NaN``` pada variabel 'Medal' akan diisi dengan ```None``` atau tidak mendapatkan mendali. 
 
 Pada pembelajaran kali ini kita hanya ingin menggunakan data pada tahun 2016 dengan perintah berikut

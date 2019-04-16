@@ -3,6 +3,9 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Dataset untuk Latihan pada Bab ini bisa di download di : 
+[athlete_events.csv](https://drive.google.com/file/d/1M5KLfA9DpVWiKqVQ9bwjFJWcl0yl-9TX/view?usp=sharing)_
+
 Bubble Chart visualisasi yang mirip dengan Scatter Plot hanya saja bisa menampilkan data tambahan dengan menampilkan ukuran-ukuran tertentu. 
 
 Pada kasus ini menggunakan ```all_go``` (data perolehan mendali setiap negara) dari video sebelumnya dengan sumbu x yaitu Total atlet dan sumbu y yaitu Total Mendali dengan ukuran bersadasarkan Gold. 

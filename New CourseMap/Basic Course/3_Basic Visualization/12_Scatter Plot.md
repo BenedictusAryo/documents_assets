@@ -3,6 +3,9 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Dataset untuk Latihan pada Bab ini bisa di download di : 
+[athlete_events.csv](https://drive.google.com/file/d/1M5KLfA9DpVWiKqVQ9bwjFJWcl0yl-9TX/view?usp=sharing)_
+
 Scatter Plot merupakan titik data dari hubungan antara variabel pada sumbu x dan sumbu y. Pada kasus ini kita akan mengetahui persebaran data dari hubungan antara nilai sumbu x (```Height```) dan sumbu y (```Weight```). 
 ```
 sns.scatterplot(x='Height', y='Weight', data=df)

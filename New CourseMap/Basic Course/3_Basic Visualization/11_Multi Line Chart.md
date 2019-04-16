@@ -1,8 +1,11 @@
-# 11 Multi Line Chart (part1)
+# 11 Multi Line Chart
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Dataset untuk Latihan pada Bab ini bisa di download di : 
+[athlete_events.csv](https://drive.google.com/file/d/1M5KLfA9DpVWiKqVQ9bwjFJWcl0yl-9TX/view?usp=sharing)_
+
 Pada pembahasan pada video sebelumnya kita telah membuat line chart dengan single line yaitu untuk Total perolehan mendali  negara Yunani. Nah, kali ini kita akan membuat multi line chart dengan banyaknya total perolehan mendali untuk Gold, Silver dan Bronze. Jadi nantinya garis yang ditampilkan ada 3 garis.
 
 Sebelumnya kita harus mengurutkan data menurut tahun karena untuk melihat dari tahun terlama sampai tahun terbaru dengan perintah

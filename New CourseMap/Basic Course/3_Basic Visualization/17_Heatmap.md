@@ -3,6 +3,9 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Dataset untuk Latihan pada Bab ini bisa di download di : 
+[athlete_events.csv](https://drive.google.com/file/d/1M5KLfA9DpVWiKqVQ9bwjFJWcl0yl-9TX/view?usp=sharing)_
+
 Heatmap digunakan untuk mengatahui korelasi antar data dengan warna yang menarik. Nah, pada Heatmap ini selain kita bisa melihat besar korelasi dengan menggunakan angka, kita bisa juga  melihat korelasi melalui warna. Korelasi nilanya yaitu -1 sampai 1. Ketika nilai  mendekati 1 (korelasi positif) dan -1 (korelasi negatif) maka nilai tersebut berkorelasi kuat. 
 
 Pada kasus ini kita ingin mencari korelasi dari tabel ```all_go```. Perlu diketahui korelasi digunakan untuk data yang numerik. 

@@ -3,6 +3,9 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Dataset untuk Latihan pada Bab ini bisa di download di : 
+[athlete_events.csv](https://drive.google.com/file/d/1M5KLfA9DpVWiKqVQ9bwjFJWcl0yl-9TX/view?usp=sharing)_
+
 Selanjutnya dari video sebelumnya, kita akan mempelajari cara untuk membuat Box Plot. Box Plot cocok untuk data yang bertipe numerical dan categorical untuk mengatahui outlier data yang kita gunakan. 
 
 Pada kasus ini Box Plot dibuat dari hubungan variabel Sex dan Age, hubungan variabel Sex dan Height, dan hubungan variabel Sex dan Weight. 

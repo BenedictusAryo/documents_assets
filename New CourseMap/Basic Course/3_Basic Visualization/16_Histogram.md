@@ -3,6 +3,9 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Dataset untuk Latihan pada Bab ini bisa di download di : 
+[athlete_events.csv](https://drive.google.com/file/d/1M5KLfA9DpVWiKqVQ9bwjFJWcl0yl-9TX/view?usp=sharing)_
+
 Histogram visualisasinya hampir sama dengan Bar Chart dari pembahasan sebelumnya. Tetapi, Bar Chart digunakan untuk data yang bertipe categorical sedangkan Histogram untuk data yang bertipe Numerical. 
 
 Perbedaan yang lain yaitu pada Bar Chart visualisasi antar batang akan ada spasinya atau jaraknya. Sedangkan,  pda Histogram visualisasi antar batang akan berdempetan. 
