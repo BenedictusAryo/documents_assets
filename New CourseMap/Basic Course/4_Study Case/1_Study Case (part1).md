@@ -3,6 +3,8 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Dataset untuk Latihan pada Bab ini bisa di download di : [FIFA World Cup 2018.xlsx](https://drive.google.com/file/d/1HTWQi3pNk46uZee0BgMtlLfI0z3vjY-e/view?usp=sharing)_
+
 Pada video kali ini merupakan studi kasus yang akan kita gunakan dari yang sudah kita pelajari pada Basic Class. 
 
 Data yang akan digunakan yaitu **Fifa Word Cup Russia 2018**. Data terdiri dari 2 sheet yaitu sheet ```match statistics``` yang merupakan hasil-hasil pertandingan dengan berbagai macam statistik yang ada dan sheet ```countries``` yang merupakan data yang berisi nama negara serta kontinen tempat negara tersebut berasal. 

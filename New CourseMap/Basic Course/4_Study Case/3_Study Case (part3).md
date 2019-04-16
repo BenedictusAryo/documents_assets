@@ -3,6 +3,8 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Dataset untuk Latihan pada Bab ini bisa di download di : [FIFA World Cup 2018.xlsx](https://drive.google.com/file/d/1HTWQi3pNk46uZee0BgMtlLfI0z3vjY-e/view?usp=sharing)_
+
 Pada video ini akan melanjutkan pempembahas pada video part 2 sebelumnya. Pada bagian ini kita akan mengerjakan dengan perintah
 1. Memeriksa nilai statistik (mean dari data) berdasarkan total ```Goal Scored``` yang tercipta.
 2. Memeriksa nilai statistik (mean dari data) berdasarkan total ```Team``` dan ```Goal Scored``` yang tercipta.
