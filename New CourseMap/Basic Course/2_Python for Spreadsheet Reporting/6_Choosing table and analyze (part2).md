@@ -3,6 +3,8 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Workbook Jupyter Notebook dan Dataset untuk bab ini bisa didownload di :[Exercise_Python for Spreadsheet.zip](https://drive.google.com/file/d/1WlpXDBTwluGYoV0crZ4fBtXglicXtS-A/view?usp=sharing)_
+
 Melanjutkan video sebelumnya, kita akan melihat infomarmasi data dengan perintah
 ```
 motor.info()

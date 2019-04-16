@@ -3,6 +3,8 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Workbook Jupyter Notebook dan Dataset untuk bab ini bisa didownload di :[Exercise_Python for Spreadsheet.zip](https://drive.google.com/file/d/1WlpXDBTwluGYoV0crZ4fBtXglicXtS-A/view?usp=sharing)_
+
 Pada pembahasan kali ini kita akan memilih tabel dan menganalisanya secara statistik. 
 
 Pada kasus ini akan membahas tentang data penjualan motor tahun 2018. 

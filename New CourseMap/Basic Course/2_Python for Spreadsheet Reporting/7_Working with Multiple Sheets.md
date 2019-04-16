@@ -3,6 +3,8 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Workbook Jupyter Notebook dan Dataset untuk bab ini bisa didownload di :[Exercise_Python for Spreadsheet.zip](https://drive.google.com/file/d/1WlpXDBTwluGYoV0crZ4fBtXglicXtS-A/view?usp=sharing)_
+
 Pada pembahasan pada video ini kita akan dihdapatkan ketika mempunyai beberapa sheet. 
 
 Pada kasus kali ini kita mempunyai 2 sheet yaitu sheet ```Kelamin``` dan sheet ```Nilai```. Mari kita inputkan terlebih dahulu data yang kita punya.

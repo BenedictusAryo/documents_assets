@@ -3,6 +3,8 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Workbook Jupyter Notebook dan Dataset untuk bab ini bisa didownload di :[Exercise_Python for Spreadsheet.zip](https://drive.google.com/file/d/1WlpXDBTwluGYoV0crZ4fBtXglicXtS-A/view?usp=sharing)_
+
 Sebelumnya, perlu diketahui bahwa Python merupakan program yang case-sensitive (sensitive terhadap perbedaan. misalnya: huruf besar dengan huruf kecil, spasi, dll). Nah, kita bisa meng-handle data kita yang mempunyai isi variabel yang sama.
 
 Mengubah data dengan semua huruf kecil.

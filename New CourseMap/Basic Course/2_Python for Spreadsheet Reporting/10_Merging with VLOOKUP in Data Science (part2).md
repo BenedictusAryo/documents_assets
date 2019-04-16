@@ -3,6 +3,8 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Workbook Jupyter Notebook dan Dataset untuk bab ini bisa didownload di :[Exercise_Python for Spreadsheet.zip](https://drive.google.com/file/d/1WlpXDBTwluGYoV0crZ4fBtXglicXtS-A/view?usp=sharing)_
+
 Pertama pada video ini kita akan menangani spasi. Nah, pada data kita pada data pertama yaitu mari kita handle spasi
 ```
 data_kelamin['Nama'] = data_kelamin['Nama'].str.strip()

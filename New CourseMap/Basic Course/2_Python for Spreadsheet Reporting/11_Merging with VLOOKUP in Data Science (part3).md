@@ -3,6 +3,8 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Workbook Jupyter Notebook dan Dataset untuk bab ini bisa didownload di :[Exercise_Python for Spreadsheet.zip](https://drive.google.com/file/d/1WlpXDBTwluGYoV0crZ4fBtXglicXtS-A/view?usp=sharing)_
+
 Pada video ini akan menggabungkan data dengan isi yang sama tetapi nama variabel yang berbeda yaitu pada variabel ```Nama``` pada sheet ```Kelamin``` dan ```Nama Sisawa``` pada sheet ```Nilai```. Mari kita inputkan dan melihat data pada sheet ```Kelamin``` dan ```Nilai```
 ```
 data_workbook = pd.ExcelFile('data/data_nilai_matematika2.xlsx')

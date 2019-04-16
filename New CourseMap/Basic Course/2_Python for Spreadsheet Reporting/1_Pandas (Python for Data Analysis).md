@@ -3,6 +3,8 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Workbook Jupyter Notebook dan Dataset untuk bab ini bisa didownload di :[Exercise_Python for Spreadsheet.zip](https://drive.google.com/file/d/1WlpXDBTwluGYoV0crZ4fBtXglicXtS-A/view?usp=sharing)_
+
 Pada pembelajaran kali ini akan membahas tentang "python for spreadsheet" yaitu mempelajari python yang biasanya kita pelajari di speadsheet. Sebelumnya, ada salah satu package yang akan membantu kita mengproses lebih lanjut yaitu package pandas yang merupakan sebuah package sebagai alat analisis terstruktur untuk bahasa pemrograman python. Salah satu kegunaan pandas yaitu mengubah data kita menjadi dataframe. 
 ```
 import pandas as pd

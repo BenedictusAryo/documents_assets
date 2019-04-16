@@ -3,6 +3,8 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+_Workbook Jupyter Notebook dan Dataset untuk bab ini bisa didownload di :[Exercise_Python for Spreadsheet.zip](https://drive.google.com/file/d/1WlpXDBTwluGYoV0crZ4fBtXglicXtS-A/view?usp=sharing)_
+
 Pada video kali ini akan ditambahkan kolom baru. 
 
 Kali ini kita akan menambahkan kolom baru dengan nama ```Kolom_akhir``` dengan fungsi ```Nilai```+10.
