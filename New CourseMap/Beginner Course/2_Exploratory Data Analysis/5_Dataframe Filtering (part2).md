@@ -13,6 +13,7 @@ Seperti pada filtering sebelumnya, perbedaannya adalah pada ini kita menggunakan
 df[(df['continent'] == 'Europe') & (df['wine_servings'] > 100)]
 ```
 *Output :*
+
 | country        | beer_servings | spirit_servings | wine_servings | total_litres_of_pure_alcohol | continent |
 |----------------|---------------|-----------------|---------------|------------------------------|-----------|
 | Andorra        | 245           | 138             | 312           | 12.4                         | Europe    |
