@@ -3,7 +3,11 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
-Pembahasan kali ini yaitu membahas tentang korelasi. Telah dibahas pada pertemuan sebelumnya nilai korelasi mempunyai nilai -1 sampai 1. Untuk memudahkan membaca korelasi lebih baik dengan menggunakan visualisasi dengan perintah
+Pembahasan kali ini yaitu membahas tentang korelasi. Telah dibahas pada pertemuan sebelumnya nilai korelasi mempunyai nilai -1 sampai 1. 
+
+Kita akan kembali menggunakan data titanic pada video awal bab ini.
+
+Untuk memudahkan membaca korelasi lebih baik dengan menggunakan visualisasi dengan perintah
 
 ```
 import seaborn as sns

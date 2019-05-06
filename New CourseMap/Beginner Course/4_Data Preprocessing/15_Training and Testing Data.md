@@ -4,6 +4,7 @@
 
 #### **Description :**
 Sebelum kita masuk ke Mechine Learning, sebelumnya kita butuh untuk membagi data training dan data testing. Baik, sebelumnya kita perlu import pacakge berikut
+
 ```
 from sklearn.model_selection import train_test_split
 ```
@@ -25,8 +26,8 @@ Pada syntax diatas dibagilah data X dan y untuk training dan testing dengan data
 
 ```
 X_train.shape
-
 ```
+
 *Output :* 
 
 (712, 12)

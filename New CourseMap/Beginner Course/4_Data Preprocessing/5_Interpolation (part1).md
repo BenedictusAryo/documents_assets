@@ -4,11 +4,14 @@
 
 #### **Description :**
 Interpolasi merupakan mengisi nilai yang kosong dengan pola-pola tertentu biasa dengan data time series ( data yang berkaitan dengan waktu). 
+
 ```
-data1 = pd.read_csv('http://bit.do/machine_temperature')
+data1 = pd.read_csv('http://bit.ly/machine_temperature')
 data1.head()
 ``` 
+
 *Output :*
+
 | Measurement date | Machine temperature |
 |------------------|---------------------|
 | 20161227         | 46                  |
@@ -18,21 +21,28 @@ data1.head()
 | 20161231         | 47                  |
 
 Pada data diatas terdiri dari dua variabel yaitu Measurement date dan Machine temperature. Mari kita cek terlebih dahulu apakah ada nilai yang kosong atau tidak dengan perintah
+
 ```
 pd.isnull(data1).sum()
 ```
+
 *Output :*
+
 ```
 Measurement date       0
 Machine temperature    0
 dtype: int64
 ```
+
 Data diatas tidak ada data yang kosong. Tetapi bila diperhatika lebih lanjut beberapa data terlangkah pada beberapa tanggal (beberapa tanggal tidak ada atau kosong). Nah, diperlukan untuk melengkapi data tersebut dengan mengubahnya dalam bentuk date time. 
+
 ```
 data1['Measurement date'] = pd.to_datetime(data1['Measurement date'], format='%Y%m%d')
 data1.head()
 ```
+
 *Output :*
+
 | Measurement date | Machine temperature |
 |------------------|---------------------|
 | 2016-12-27       | 46                  |
@@ -48,6 +58,7 @@ data1.set_index('Measurement date', inplace=True)
 data1.head()
 ```
 *Output :*
+
 | Measurement date| Machine Temperature |
 |-----------------|---------------------|
 | 2016-12-27      | 46.0                |
@@ -64,6 +75,7 @@ data1 = data1.loc[allday]
 data1.head(10)
 ```
 *Output :*
+
 |            | Machine Temperature |
 |------------|---------------------|
 | 2016-12-27 | 46.0                |

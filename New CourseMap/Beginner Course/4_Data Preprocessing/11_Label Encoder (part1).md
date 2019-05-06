@@ -8,7 +8,8 @@ Kali ini kita akan membahas tentang categorical data normalization yang merupaka
 data_cat = df[['Pclass','Sex','Embarked']]
 data.cat.head()
 ```
-*Output :* <br>
+*Output :*
+
 | Pclass | Sex    | Embarked |
 |--------|--------|----------|
 | 3      | male   | S        |
@@ -23,6 +24,7 @@ Pada categorical data normalization yang akan kita bahas yaitu metode Label Enco
     data_raw  = [France, Belgium, Germany, France, Germany]
 
      data_norm = [0, 1, 2 ,0, 1]
+
 ```
 from sklearn.preprocessing import LabelEncoder
 encoder1 = LabelEncoder()
@@ -30,7 +32,9 @@ data_2=data_cat.copy()
 encoder1.fit(data_2.iloc[:,1])
 encoder1.classes_
 ```
-*Output :* <br>
+
+*Output :* 
+
 array(['female', 'male'], dtype=object)
 
 Pada syntax ```encoder1.fit(data_2.iloc[:,1])``` menunjukkan akan memproses kolom tabel ke 2 yaitu ```Sex```. Dari output diatas merupakan urutan normalisasi variabel ```Sex``` dengan female dengan nilai 0 dan male dengan nilai 1. 

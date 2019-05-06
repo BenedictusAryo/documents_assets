@@ -21,10 +21,13 @@ df.head()
 | 5           | 0        | 3      | Allen, Mr. William Henry                            | male   | 35.0 | 0     | 0     | 373450           | 8.05    |       | S        |
 
 Pada output data diatas terdapat beberapa nilai kosong. Untuk melihat nilai kosong dengan mudah dengan perintah
+
 ```
 pd.isnull(df).sum()
 ```
+
 *Output :*
+
 ```
 PassengerId      0
 Survived         0

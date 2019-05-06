@@ -16,17 +16,21 @@ df1.shape
 (891, 12)
 
 Pada output diatas data diketahui mempunyai 891 baris dan 12 kolom. Tetapi ketika nilai kosong semua data yang terdapat nilai kosong dihapus maka akan didapat kan hasil dengan perintah
+
 ```
 df1.dropna().shape
 ```
+
 *Output :*
 
 (183, 12)
 
 Didapatkan 183 baris dan 12 kolom. Selain itu, kita dapat menghapus kolom terterntu. Pada kasus ini kita akan menghapus kolom Cabin dan Name dengan perintah
+
 ```
 df1.drop(['Cabin', 'Name'], axis=1)
 ```
+
 *Output :*
 
 | PassengerId | Survived | Pclass | Sex    | Age  | SibSp | Parch | Ticket           | Fare    | Embarked |

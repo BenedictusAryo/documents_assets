@@ -28,6 +28,7 @@ array([[0.27117366, 0.125     , 0.        , 0.01415106],
 ```
 
 Dari output diatas data numerik telah ternormalisasi. Tetapi permasalahan saat ini, kita akan susah melihat arti dari data tersebut. Maka diperlukan dataframe untuk membentuk tampilan lebih baik dengan perintah
+
 ```
 data_m = pd.DataFrame(data_m, columns = ['Age','SibSp', 'Parch', 'Fare'])
 data_m.head()

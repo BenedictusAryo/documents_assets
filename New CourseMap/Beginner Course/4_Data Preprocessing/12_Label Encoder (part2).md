@@ -9,7 +9,8 @@ a = encoder1.transform(data_2.iloc[:,1])
 a = pd.DataFrame(a)
 a.head()
 ```
-*Output :* <br>
+*Output :* 
+
 | 0 |
 |---|
 | 1 |
@@ -19,6 +20,7 @@ a.head()
 | 1 |
 
 Maka dari tabel diatas kita telah berhasil menormalisasi nilai pada kolom ```Sex```. Untuk memudahkan kita normalisasi langsung semua kolom atau tidak satu persatu seperti pada proses diatas yaitu dengan menggunakan looping berikut
+
 ```
 length = data_2.shape[1]
 col = data_2.columns
@@ -28,7 +30,9 @@ for i in range (length):
     a = pd.DataFrame(a, columns=[col[i]+'new'])
     data_2 = data_2.join(a)
 ```
-*Output :* <br>
+
+*Output :* 
+
 | Pclass | Sex    | Embarked | Pclassnew | Sexnew | Embarkednew |
 |--------|--------|----------|-----------|--------|-------------|
 | 3      | male   | S        | 2         | 1      | 2           |
