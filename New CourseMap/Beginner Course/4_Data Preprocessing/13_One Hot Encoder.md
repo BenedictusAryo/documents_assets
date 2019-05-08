@@ -6,10 +6,10 @@
 One Hot Encoder merupakan metode normalisasi data kategorik dengan nilai 0 dan 1. Berbeda dengan Label Encoder, One Hot Encoder mengubah data dengan banyak kolom.
 Contoh : 
 
-```
-data_raw  = [France, Belgium, Germany, France, Germany]
-data_norm = [[1,0,0],[0,1,0],[0,0,1],[1,0,0],[0,0,1]]
+       data_raw  = [France, Belgium, Germany, France, Germany]
+       data_norm = [[1,0,0],[0,1,0],[0,0,1],[1,0,0],[0,0,1]]
 
+```
 from sklearn.preprocessing import OneHotEncoder
 
 encoder2 = OneHotEncoder()
