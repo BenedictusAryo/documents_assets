@@ -61,7 +61,8 @@ Kemudian dijalankan dan akan menghasilkan output sebagai berikut:
 Lalu, gimana caranya jka kita tetap ingin mendapatkan informasi total perolehan medalinya dari hasil sebelumnya?<br>
 Dalam hal ini mudah sekali dilakukan hanya dengan mengganti **barmode = 'stack'** pada bagian layout seperti berikut:<br>
 ```
-layout = go.Layout(title = '2018 Olympics Medal by Country',                      xaxis=dict(title='Country'),
+layout = go.Layout(title = '2018 Olympics Medal by Country',                      
+                   xaxis=dict(title='Country'),
                    yaxis={'title':'Total Medals'},
                    barmode='stack')
 ```
