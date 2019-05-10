@@ -3,6 +3,13 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
+Dataset untuk kita gunakan pada video kali ini dapat didownload di link berikut : [2018WinterOlympics.csv](https://www.dropbox.com/s/nw8v4jnqa4wupwg/2018WinterOlympics.csv?dl=0) <br>
+Atau bisa juga menggunakan shortlink berikut pada pandas :
+
+```
+import pandas as pd
+df = pd.read_csv('http://bit.ly/2018winter_olympics')
+```
 
 Pada video kali ini kita akan membahas bagaimana caranya membuat sebuah **bar plot**. <br>
 **Bar plot** adalah sebuah grafik yang berbentuk batang dengan nilai x-axis berbentuk kategorik dan nilai y-axis berbentuk numerik.
