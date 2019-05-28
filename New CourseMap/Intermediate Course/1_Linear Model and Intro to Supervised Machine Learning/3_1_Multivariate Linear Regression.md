@@ -30,7 +30,7 @@ clf.intercept_
 ```
 Hasil perintah diatas mengeluarkan output rumus regresi sebagai berikut :
 
-$$MEDV = -114.46564*CRIM + 48.10036*ZN + (-29.3283702 * INDUS) + 2331.53463 * CHAS + NOX + RM + AGE + DIS + RAD + TAX + PTRATIO + B + LSTAT$$
+$MEDV = -114.46564*CRIM + 48.10036*ZN + (-29.3283702 * INDUS) + 2331.53463 * CHAS + NOX + RM + AGE + DIS + RAD + TAX + PTRATIO + B + LSTAT$
 
 Berdasarkan rumus diatas kita dapat melihat impact nya ke data testing lho menggunakan syntax berikut:
 ```
