@@ -29,6 +29,6 @@ for i in range (4):
 ```
 Nah, ternyata syntax diatas menghasilkan output berikut lho...
 
-![Assets](https://www.dropbox.com/sh/3escqhuxix16hj2/AADqs3tUYYtxlUvXQci-HUUPa/6.png?dl=1)
+![Assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/2_Support%20Vector%20Machine/assets/6.png)
 
 Bagaimana? Apakah paham sama hasil output diatas? Kalau belum paham, yuk simak video berikut.

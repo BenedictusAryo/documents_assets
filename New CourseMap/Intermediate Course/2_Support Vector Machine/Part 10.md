@@ -18,6 +18,6 @@ plt.show()
 ```
 Dimana, perintah diatas akan menghasilkan output berikut lho.
 
-![Assets](https://www.dropbox.com/sh/3escqhuxix16hj2/AAARMxxuY5yDVTr43UxEjRiua/4.png?dl=1)
+![Assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/2_Support%20Vector%20Machine/assets/4.png)
 
 Gimana sudah paham sama maksut dari hasil output diatas? Kalau belum, yuk simak video berikut..

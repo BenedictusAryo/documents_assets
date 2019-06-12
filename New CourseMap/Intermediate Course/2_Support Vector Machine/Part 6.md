@@ -8,6 +8,7 @@ Pada video sebelumnya telah dijelaskan konsep dari **SVM** itu sendiri. Nah, pad
 
 Hal pertama yang perlu dilakukan ialah meng-import package yang digunakan. Secara general package ataupun perintah yang digunakan untuk membuat **SVM** hampir sama seperti **Linear Regression*** atau **Logistic Regression** dan bedanya hanya di beberapa bagian saja.<br>
 Sebelum melakukan import package jangan lupa kita perlu menginstall salah satu package mengunakan perintah **_pip install mixtend_**
+
 ```
 import pandas as pd
 import numpy as np
@@ -22,6 +23,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from sklearn.preprocessing import LabelEncoder
 from mlxtend.plotting import plot_decision_regions
 ```
+
 ```
 import warnings
 warnings.filterwarnings('ignore')
