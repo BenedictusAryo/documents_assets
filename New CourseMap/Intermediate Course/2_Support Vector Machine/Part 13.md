@@ -4,10 +4,8 @@
 
 #### **Description :**
 
-Nah, pada video kali ini waktunya temen-temen untuk meng-explore sendiri berdasarkan datasets yang diberikan dibawah ini <br>
+Selanjutnya saatnya teman-teman berlatih sendiri bagaimana menyiapkan data hingga melakukan pemodelan SVM menggunakan data yang bisa teman-teman download berikut : <br>
 
-[Reference](https://www.dropbox.com/sh/3escqhuxix16hj2/AACymsRstz7Cd6nxfPKeuZ04a?dl=0&preview=diabetes.csv)
+[diabetes.csv](https://www.dropbox.com/sh/3escqhuxix16hj2/AACymsRstz7Cd6nxfPKeuZ04a?dl=0&preview=diabetes.csv)
 
-Dimana tugasnya teman-teman kali ini yaitu, membuat SVM berdasarkan datasets diatas.
-
-Selamat mengerjakan dan semoga berhasil!
+Apabila teman-teman merasa kesulitan, teman-teman dapat berdiskusi melalui Forum Slack.

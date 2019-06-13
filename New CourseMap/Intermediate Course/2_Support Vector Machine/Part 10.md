@@ -3,7 +3,7 @@
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
-Pada video sebelumnya kita telah mendapatkan score untuk SVM. Nah, pada video kali ini kita akan mem visualisasikan hasil tersebut. 
+Pada video sebelumnya kita telah mendapatkan score untuk SVM. Nah, pada video kali ini kita akan melakukan visualiasi hasil dari SVM yang telah kita latih menggunakan `plot_decision_regions` pada _mlxtend_ yang telah kita import sebelumnya 
 ```
 plt.figure(figsize = (10,5))
 plt.subplot(121)
@@ -16,8 +16,8 @@ plot_decision_regions(X= X_test.values, y= y_test.values, clf = model, legend = 
 
 plt.show()
 ```
-Dimana, perintah diatas akan menghasilkan output berikut lho.
+Dimana, perintah diatas akan menghasilkan output seperti di bawah.
 
 ![Assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/2_Support%20Vector%20Machine/assets/4.png)
 
-Gimana sudah paham sama maksut dari hasil output diatas? Kalau belum, yuk simak video berikut..
+

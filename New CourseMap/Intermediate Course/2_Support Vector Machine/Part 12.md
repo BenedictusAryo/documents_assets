@@ -15,7 +15,7 @@ for i in range(6):
     plot_decision_regions(X = X_test.values, y = y_test.values, clf = model, legend = 2)
     plt.title(param_gamma[i])
 ```
-Kemudia, untuk kernel nya sebagai berikut ya.
+Kemudian, untuk scriptnya sebagai berikut.
 ```
 param_kernel = ['rbf','linear','sigmoid','poly']
 plt.figure(figsize = (10,10))
@@ -31,4 +31,4 @@ Nah, ternyata syntax diatas menghasilkan output berikut lho...
 
 ![Assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/2_Support%20Vector%20Machine/assets/6.png)
 
-Bagaimana? Apakah paham sama hasil output diatas? Kalau belum paham, yuk simak video berikut.
+Bagaimana menurut teman2, kernel mana yang menghasilkan model paling baik ?
