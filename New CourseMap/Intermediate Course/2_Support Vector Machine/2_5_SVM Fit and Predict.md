@@ -1,4 +1,4 @@
-# Part 9
+# 2_5_SVM Fit and Predict
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

@@ -1,4 +1,4 @@
-# Part 12
+# 2_8_Gamma & Kernel Optimization
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

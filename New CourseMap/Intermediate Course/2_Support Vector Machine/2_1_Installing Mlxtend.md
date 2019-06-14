@@ -1,4 +1,4 @@
-# Part 5
+# 2_1_Installing Mlxtend
 
 ![covervideo](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/2_Support%20Vector%20Machine/assets/vid_5.gif)
 

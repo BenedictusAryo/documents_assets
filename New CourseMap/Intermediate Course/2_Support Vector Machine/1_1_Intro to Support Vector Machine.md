@@ -1,4 +1,4 @@
-# Part 1
+# 1_1_Intro to Support Vector Machine
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

@@ -1,4 +1,4 @@
-# Part 6
+# 2_2_SVM Library Importing
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

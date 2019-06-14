@@ -1,4 +1,4 @@
-# Part 2
+# 1_2_Breakdown Support Vector Machine
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

@@ -1,4 +1,4 @@
-# Part 13
+# 2_9_Study Case Practice
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

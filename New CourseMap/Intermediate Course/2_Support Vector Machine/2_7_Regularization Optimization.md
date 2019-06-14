@@ -1,4 +1,4 @@
-# Part 11
+# 2_7_Regularization Optimization
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

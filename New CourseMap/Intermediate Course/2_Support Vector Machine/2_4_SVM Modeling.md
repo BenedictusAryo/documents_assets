@@ -1,4 +1,4 @@
-# Part 8
+# 2_4_SVM Modeling
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

@@ -1,4 +1,4 @@
-# Part 10
+# 2_6_SVM Visualization
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

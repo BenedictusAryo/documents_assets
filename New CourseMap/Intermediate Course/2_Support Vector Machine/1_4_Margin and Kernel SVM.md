@@ -1,4 +1,4 @@
-# Part 4
+# 1_4_Margin and Kernel SVM
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

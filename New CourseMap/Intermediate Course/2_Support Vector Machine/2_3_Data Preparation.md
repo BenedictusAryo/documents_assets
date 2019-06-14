@@ -1,10 +1,10 @@
-# Part 7
+# 2_3_Data Preparation
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
 
-Pada video sebelumnya kita telah sampai pada me-load data dan menggunakan **data iris** untuk melakukan klasifikasi dengan metode **SVM**. Pada video kali ini kita akan membahas mengenai tahapan selajutnya yaitu melakukan preprocessing sederhana pada data kita tersebut.
+Pada video sebelumnya kita telah sampai pada loading data dimana kita menggunakan **data iris** untuk melakukan klasifikasi dengan metode **SVM**. Pada video kali ini kita akan membahas mengenai tahapan selajutnya yaitu melakukan preprocessing sederhana pada data kita tersebut.
 
 Dimana, yang pertama dilakukan yaitu membuat label nama pada data yang dipunyai sebagai berikut.
 
