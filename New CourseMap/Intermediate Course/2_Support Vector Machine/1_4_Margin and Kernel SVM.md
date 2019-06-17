@@ -17,4 +17,4 @@ Pada gambar diatas dimana dinyatakan bahwa perbedaan antara kedua gambar yaitu m
 
 ![assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/2_Support%20Vector%20Machine/assets/3.png)
 
-Nah, menurut temen-temen mana yang lebih baik gambarnya ? Penasaran ? Yuk, perhatikan penjelasan di video berikut.
+Nah, menurut teman-teman mana yang lebih baik gambarnya ? Penasaran ? Yuk, perhatikan penjelasan di video berikut.
