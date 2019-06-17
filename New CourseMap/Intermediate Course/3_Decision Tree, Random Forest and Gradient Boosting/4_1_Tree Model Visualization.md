@@ -1,11 +1,12 @@
-# Part 15
+# 4_1_Tree Model Visualization
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
 
-Pada video kali ini kita akan membahas bagaimana caranya mem-visualisasikan tree atau pohonnya. Dimana, sebelum melakukan visualisasi, teman-teman harus sudah meng-install *graphviz* seperti yang telah di tutorialkan pada video sebelumnya. <br>
+Pada video kali ini kita akan membahas bagaimana caranya mem-visualisasikan tree atau pohonnya. Dimana, sebelum melakukan visualisasi, teman-teman harus sudah meng-install *graphviz* seperti yang telah di jelaskan pada tutorial di video sebelumnya. <br>
 Hal pertama yang perlu dilakukan untuk visualisasi tree yaitu mengimport package sebagai berikut. 
+
 ```
 from sklearn import tree
 from sklearn.tree import export_graphviz
@@ -22,6 +23,6 @@ out_file = None, feature_names = labels
 
 display(SVG(graph.pipe(format='svg')))
 ```
-![Assets](https://www.dropbox.com/sh/zfpg3q89pe9hnia/AADTRHTD1bynBTfGzww4rlnGa/3.png?dl=1)
 
-Untuk penjelasan lengkapnya dapat dilihat pada video berikut ya.
+![Assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/3_Decision%20Tree%2C%20Random%20Forest%20and%20Gradient%20Boosting/assets/3.png)
+

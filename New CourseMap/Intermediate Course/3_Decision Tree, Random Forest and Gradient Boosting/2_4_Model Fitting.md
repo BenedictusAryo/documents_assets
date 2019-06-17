@@ -1,4 +1,4 @@
-# Part 9
+# 2_4_Model Fitting
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

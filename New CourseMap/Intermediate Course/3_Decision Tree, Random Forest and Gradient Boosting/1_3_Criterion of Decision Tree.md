@@ -1,4 +1,4 @@
-# Part 3
+# 1_3_Criterion of Decision Tree
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

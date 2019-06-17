@@ -1,4 +1,4 @@
-# Part 7
+# 2_2_Data Preparation
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

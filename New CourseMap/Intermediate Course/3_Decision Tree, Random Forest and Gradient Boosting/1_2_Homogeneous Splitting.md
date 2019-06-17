@@ -1,4 +1,4 @@
-# Part 2
+# 1_2_Homogeneous Splitting
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

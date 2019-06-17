@@ -1,5 +1,4 @@
-# Part 11
-
+# 2_5_Result Visualization Part-2
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
@@ -15,6 +14,6 @@ for i in range(3):
 ```
 Syntax diatas akan menghasilkan output sebagai berikut.
 
-![Assets](https://www.dropbox.com/sh/zfpg3q89pe9hnia/AACO4MRH-wWVkGYCM0i8JM_ta/2.png?dl=1)
+![Assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/3_Decision%20Tree%2C%20Random%20Forest%20and%20Gradient%20Boosting/assets/2.png)
 
-Gimana? Sudah paham sama hasil output diatas? Kalau belum, yuk simak video berikut.
+Teman-teman kin telah mengetahui bagaimana model yang telah teman-teman buat serta bagaimana kompleksitasnya menyelesaikan masalah klasifikasi data tersebut.

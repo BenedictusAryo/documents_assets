@@ -1,10 +1,11 @@
-# Part 16
+# 4_2_Interactive Tree Model Visualization
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 
 #### **Description :**
 
-Pada video kali ini kita akan membahas bagaimana caranya membuat tree yang lebih interactive. Dimana, syntax yang dibutuhkan hamir sama seperti pada video sebelumnya. Namun, ada beberapa syntax yang membedakan, untuk lebih jelasnya perhatikan syntax berikut. 
+Pada video kali ini kita akan membahas bagaimana caranya membuat visualisasi tree model dengan interactive. Dimana, syntax yang dibutuhkan hampir sama seperti pada video sebelumnya. Namun, ada beberapa syntax yang membedakan, untuk lebih jelasnya perhatikan syntax berikut. 
+
 ```
 # class labels
 labels = X.Columns
@@ -37,6 +38,6 @@ inter=interactive(plot_tree
 
 display(inter)
 ```
-![Assets](https://www.dropbox.com/sh/zfpg3q89pe9hnia/AADVzLd2Zog4PXGkenqI2H_Da/4.png?dl=1)
+![Assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/3_Decision%20Tree%2C%20Random%20Forest%20and%20Gradient%20Boosting/assets/4.png)
 
 Nah, untuk penjelasan lengkap terkait syntax diatas dapat dilihat pada video berikut ya.

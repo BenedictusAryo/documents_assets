@@ -1,4 +1,4 @@
-# Part 10
+# 2_5_Result Visualization Part-1
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 
