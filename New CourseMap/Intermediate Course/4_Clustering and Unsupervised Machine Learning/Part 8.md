@@ -5,9 +5,9 @@
 #### **Description :**
 
 Pada video sebelumnya kita telah mempelajari terkait teori dari **clustering**. Pada video kali ini waktunya untuk mempraktikkan teori yang telah dijelaskan pada video sebelumnya.<br> 
-Untuk data yang digunakan dapat di download pada link berikut<br>
+Untuk data yang digunakan dapat di download pada link berikut :<br>
 
-[Reference](https://www.dropbox.com/sh/ew6mjmoq0illzml/AAB0kjCLYYBNerjqLPpKL05ya/data_1024.csv?dl=0)
+> [data_1024.csv](https://www.dropbox.com/sh/ew6mjmoq0illzml/AAB0kjCLYYBNerjqLPpKL05ya/data_1024.csv?dl=0)
 
 Seperti biasa, langkah awal sebelum mengimport data yang akan digunakan kita perlu mengimport beberapa packages yang digunakan, diantaranya:
 ```

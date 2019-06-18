@@ -4,17 +4,15 @@
 
 #### **Description :**
 
-Pada video sebelumnya kita telah mengetahui metode apa saja yang terdapat pada **clustering**. Nah, pada vide0 kali ini kita akan membahas mengenai step by step mengenai K-Means.
+Pada video sebelumnya kita telah mengetahui metode apa saja yang terdapat pada **clustering**. Nah, pada vide0 kali ini kita akan membahas mengenai _step by step_ mengenai K-Means.
 
 Terdapat beberapa hal yang perlu diperhatikan didalam clustering K-Means, yaitu:
 1. **k** = jumlah cluster
 2. **centroid** = titik tengah yang menentukan apakah suatu data termasuk ke dalam cluster atau bukan dan bersifat random.
 
-![Assets](https://www.dropbox.com/sh/ew6mjmoq0illzml/AAAqcivUq_b6b0vYSORRVug0a/1.png?dl=1)
+![Assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/4_Clustering%20and%20Unsupervised%20Machine%20Learning/assets/1.png)
 
 
-Penasaran sama gambar diatas? Yuk simak video berikut. 
-
-
+Sehingga pada `K-Means`, kita harus terlebih dahulu menentukan jumlah `k` atau **_jumlah cluster_** nya
 
 

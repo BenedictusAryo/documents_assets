@@ -15,6 +15,6 @@ plt.show()
 ```
 Hasil diatas akan menghasilkan output sebagai berikut.
 
-![Assets](https://www.dropbox.com/sh/ew6mjmoq0illzml/AADw-xakGA92Yc6zmDuWYZPNa/7.png?dl=1)
+![Assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/4_Clustering%20and%20Unsupervised%20Machine%20Learning/assets/7.png)
 
-Cantik ya plot nya? Tapi masih belum paham maksutnya apa? Lebih baik simak video berikut dulu yuk.
+Dari sebaran data tersebut, kita akan menguji apakah model `clustering` yang kita buat mampu mempelajari pola-pola yang terlihat pada data tersebut.

@@ -18,4 +18,4 @@ pred_kme = model_kme.predict(X)
 pred_kme_2 = model_kme_2.predict(X)
 pred_kme
 ```
-Untuk lebih jelasnya yuk kita simak video berikut.
+dari `pred_kme` tersebut maka kita dapat melihat hasil dari pemodelan _clustering_ yang telah kita buat.

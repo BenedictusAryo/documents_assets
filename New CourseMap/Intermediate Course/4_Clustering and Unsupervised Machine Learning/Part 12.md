@@ -19,4 +19,6 @@ plt.ylabel('Distortion')
 plt.title('The Elbow Method showing the optimal k')
 plt.show()
 ```
+Maka akan menghasilkan grafik elbow seperti dibawah ini :
 
+![assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/4_Clustering%20and%20Unsupervised%20Machine%20Learning/assets/12.png)
