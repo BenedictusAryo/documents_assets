@@ -19,14 +19,13 @@ plt.subplots_adjust(bottom=0.1)
 plt.scatter(data[:,0], data[:, 1], label= 'True Position')
 
 for label, x, y in zip(labels, data [:, 0], data[:, 1]):
-    plt.amotate(label, xy = (x,y), xytext = 
+    plt.anotate(label, xy = (x,y), xytext = 
     (-3,3),textcoords='offset points', ha='right',
     va='bottom')
     
 plt.show()
 ```
-Ternyata hasil syntax diatas menghasilkan output dibawah ini lho. 
+Sehingga data yang telah kita buat tadi akan menghasilkan output dibawah ini  
 
-![Assets](https://www.dropbox.com/sh/ew6mjmoq0illzml/AAAYD9rYGXVaAfgh1Q_23XmMa/10.png?dl=1)
+![Assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/4_Clustering%20and%20Unsupervised%20Machine%20Learning/assets/10.png)
 
-Gimana penasaran sama maksut dari gambar diatas? Yuk simak video berikut.

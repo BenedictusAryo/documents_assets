@@ -46,8 +46,7 @@ for k, col in zip (unique_labels, colors) :
 plt.title('Estimated number of clusters: %d' % n_clusters_)
 plt.show()
 ```
-Ternyata perintah diatas menghasilkan output dibawah ini lho.
+Ternyata perintah diatas menghasilkan output dibawah ini.
 
-![Assets](https://www.dropbox.com/sh/ew6mjmoq0illzml/AAB4TIUz4A0yphymHqE-9YHRa/9.png?dl=1)
+![Assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/4_Clustering%20and%20Unsupervised%20Machine%20Learning/assets/9.png)
 
-Penasaran? Yuk simak video berikut.

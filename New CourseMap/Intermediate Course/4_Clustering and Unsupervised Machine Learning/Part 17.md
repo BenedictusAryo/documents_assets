@@ -4,7 +4,7 @@
 
 #### **Description :**
 
-Pada video sebelumnya telah dijelaskan bagaimana caranya membuat scatter untuk dendogram berdasarkan data yang dimiliki. Pada video kali ini kita akan membahas mengenai bagaimana caranya membuat suatu dendogram. Dimana dalam hal ini caranya yaitu dengan menggunakan ```linkage``` dengan syntax sebagai berikut.
+Pada video sebelumnya telah dijelaskan bagaimana caranya membuat scatter untuk dendogram berdasarkan data yang dimiliki. Pada video kali ini kita akan membahas mengenai bagaimana caranya membuat suatu dendogram. Dalam hal ini yaitu dengan menggunakan ```linkage``` dengan syntax sebagai berikut.
 ```
 linked = linkage(data, 'single')
 
