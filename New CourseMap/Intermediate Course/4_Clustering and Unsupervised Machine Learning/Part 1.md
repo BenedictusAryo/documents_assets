@@ -4,8 +4,8 @@
 
 #### **Description :**
 
-Pada video lesson ke-4 kali ini kita akan membahas mengenai _**Clustering**_.
+Pada video lesson ke-4 di kelas _Intermediate_ kali ini kita akan membahas mengenai _**Clustering**_.
 
-**Clustering** pada dasarnya sama seperti klasifikasi yang membedakan ialah pada clustering saat melakukan peng-klasifikasian kita belum mengetahui sesuatu yang akan kita jadikan target. Jadi, intinya **Clustering** ialah bagaimana caranya kita menganalisa data dengan data yang tidak diberikan label.
+Seperti yang telah teman-teman ketahui, pada kasus klasifikasi, kita memiliki **_target label kelas_** yang hendak kita prediksi. Sedangkan pada _Clustering_, kita belum mengetahui sesuatu yang akan kita jadikan target. Jadi, intinya **Clustering** ialah bagaimana caranya kita menganalisa data dengan data yang tidak diberikan label.
 
-Nah, jadi itu pengenalan secara singkat mengenai **clustering**. Gimana? Penasaran? Untuk lebih jelasnya simak video setelah ini yuk.  
+Nah, jadi itu pengenalan secara singkat mengenai **clustering**. Bagaimana penasaran kan? Untuk lebih jelasnya simak video setelah ini yuk.  
