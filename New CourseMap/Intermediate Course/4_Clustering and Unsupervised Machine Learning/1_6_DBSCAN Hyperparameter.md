@@ -1,4 +1,4 @@
-# Part 6
+# 1_6_DBSCAN Hyperparameter
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 
@@ -11,4 +11,4 @@ Nah, video kali ini merupakan lanjutan pada video sebelumnya. Dimana pada video 
 
 Berdasarkan hasil diatas didapatkan kesimpulan bahwa ketika semakin kecil nilai epsilon maka benuk lingkaran akan semakin kecil. Sebaliknya ketika nilai epsilon semakin besar maka lingkaran juga akan semakin besar. 
 
-Lalu, jika nilai minPointsya berbeda akan menjadi seperti apa? Nah, untuk lebih jelasnya yuk simak video berikut.
+Lalu, jika nilai minPointsya berbeda akan menjadi seperti apa? Nah, untuk lebih jelasnya yuk simak video berikut. 

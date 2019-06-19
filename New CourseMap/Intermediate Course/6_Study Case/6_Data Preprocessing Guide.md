@@ -1,4 +1,4 @@
-# Part 6
+# 6_Data Preprocessing Guide
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 
