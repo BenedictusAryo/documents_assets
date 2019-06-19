@@ -1,4 +1,4 @@
-# Part 11
+# 4_2_Random Search
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

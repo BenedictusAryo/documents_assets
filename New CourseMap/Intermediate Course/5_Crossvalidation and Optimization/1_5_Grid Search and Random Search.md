@@ -1,4 +1,4 @@
-# Part 5
+# 1_5_Grid Search and Random Search
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

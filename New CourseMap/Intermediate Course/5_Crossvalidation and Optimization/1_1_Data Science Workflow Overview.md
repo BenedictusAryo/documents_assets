@@ -1,4 +1,4 @@
-# Part 1
+# 1_1_Data Science Workflow Overview
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

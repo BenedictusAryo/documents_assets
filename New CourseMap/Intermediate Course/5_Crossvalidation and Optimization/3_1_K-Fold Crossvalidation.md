@@ -1,4 +1,4 @@
-# Part 8
+# 3_1_K-Fold Crossvalidation
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

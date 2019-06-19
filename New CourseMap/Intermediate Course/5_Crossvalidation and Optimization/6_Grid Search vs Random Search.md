@@ -1,4 +1,4 @@
-# Part 13
+# 6_Grid Search vs Random Search
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

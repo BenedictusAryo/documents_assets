@@ -1,4 +1,4 @@
-# Part 10
+# 4_1_Grid Search
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

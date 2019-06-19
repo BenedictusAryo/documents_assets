@@ -1,4 +1,4 @@
-# Part 12
+# 5_Optimized Tree Visualization
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 
@@ -20,4 +20,4 @@ Untuk lebih detailnya, yuk simak penjelasan di dalam video.
 
 Hasil dari visualisasi _tree_ menggunakan _grphviz_ akan mengeluarkan _output_ seperti gambar di bawah ini.
 
-![Assets](https://www.dropbox.com/s/o113psmmebsf3d5/dtree_render.png?dl=1)
+![Assets](https://github.com/BenedictusAryo/documents_assets/raw/master/New%20CourseMap/Intermediate%20Course/5_Crossvalidation%20and%20Optimization/assets/dtree_render.png)

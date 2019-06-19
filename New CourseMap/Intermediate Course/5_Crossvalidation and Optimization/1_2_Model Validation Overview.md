@@ -1,4 +1,4 @@
-# Part 2
+# 1_2_Model Validation Overview
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

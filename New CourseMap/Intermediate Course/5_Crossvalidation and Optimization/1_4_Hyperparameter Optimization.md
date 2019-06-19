@@ -1,4 +1,4 @@
-# Part 4
+# 1_4_Hyperparameter Optimization
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

@@ -1,4 +1,4 @@
-# Part 3
+# 1_3_Crossvalidation Methodology
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 

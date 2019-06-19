@@ -1,4 +1,4 @@
-# Part 9
+# 3_2_LOOCV Crossvalidation
 
 ![covervideo](http://bit.ly/makeaicovervideo)
 
@@ -24,5 +24,4 @@ for train_index, test_index in loo.split(X):
     scoring.append(hasil)
 scoring = np.array(scoring)
 print(scoring.mean())
-
 ```
