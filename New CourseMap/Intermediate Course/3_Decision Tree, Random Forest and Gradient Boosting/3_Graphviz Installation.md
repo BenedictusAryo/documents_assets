@@ -6,17 +6,17 @@ Video kali ini merupakan tutorial bagaimana caranya mendowload _**Graphviz**_. L
 
 
 
-![Video Part 12]()
+!3_Graphviz Installation -part1]()
 
 
 ## Add Graphviz to Environment Variable
 Selanjutnya kita harus terlebih dahulu menambahkan Environment Variable `Graphviz` kedalam komputer kita
 
-![Video Part 13]()
+![3_Graphviz Installation -part2]()
 
 
 
 ## `Pip install` and verify installation
 Selanjutnya beberapa step terakhir adalah melakukan `pip install graphviz` , kemudian `conda install graphviz`. setelah selesai, kita dapat melakukan verifikasi singkat apakah `graphviz` sudah terinstall dengan baik. 
 
-![Video Part 14]()
+![3_Graphviz Installation -part3]()
